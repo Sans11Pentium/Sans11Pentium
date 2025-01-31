@@ -1,8 +1,8 @@
 <h1 align="center">Sanskriti</h1> 
-<code>Into full stack web development and machine learning</code>
+<code align="center">Into full stack web development and machine learning</code>
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskriti-624459248) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskriti-624459248) 
 
 ## Visitor count 👀
 ![Visitor Count](https://profile-counter.glitch.me/Sans11Pentium/count.svg)
